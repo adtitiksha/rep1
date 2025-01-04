@@ -5843,7 +5843,7 @@
                                                 "type": "parcoords",
                                             }
                                         ],
-                                        "pie": [{"automargin": true, "type": "pie"}],
+                                        "pie": [{"automargin": True, "type": "pie"}],
                                         "scatter": [
                                             {
                                                 "fillpattern": {
